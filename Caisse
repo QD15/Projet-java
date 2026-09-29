@@ -1,0 +1,6 @@
+public class Caisse extends accueil {
+    private int solde;
+    public int consulterSolde() { 
+        return solde;
+    }
+}
